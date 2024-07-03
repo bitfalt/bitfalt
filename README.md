@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm bitfalt 👋
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a keen interest in Web3 development and cybersecurity. Currently, I'm in my third year of Computer Science at the Instituto Tecnológico de Costa Rica (ITCR), where I'm constantly learning about new technologies and what is posssible with them.
 
